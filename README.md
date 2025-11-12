@@ -39,6 +39,9 @@ Vanilla/typescript sandbox
 - https://swc.rs/docs/usage/wasm
 - https://rollupjs.org/browser/
 - https://github.com/rolldown/rolldown/tree/main/packages/browser
+  > - https://github.com/rolldown/rolldown/discussions/3391
+  > - https://github.com/rolldown/rolldown/pull/4112
+  > - https://github.com/Brooooooklyn/playground/blob/main/src/main.ts
 
 ### Parsers
 - https://github.com/acornjs/acorn
