@@ -102,3 +102,5 @@ Simple Vanilla/TypeScript sandbox playground
 
 ### Component
 - https://lit.dev/docs/
+- https://vuejs.org/guide/extras/web-components.html#building-custom-elements-with-vue
+- https://web.dev/articles/custom-elements-best-practices
