@@ -93,6 +93,7 @@ Simple Vanilla/TypeScript sandbox playground
   > - https://github.com/rolldown/rolldown/discussions/3391
   > - https://github.com/rolldown/rolldown/pull/4112
   > - https://github.com/Brooooooklyn/playground/blob/main/src/main.ts
+- https://babeljs.io/docs/babel-standalone
 
 ### Parsers
 - https://github.com/acornjs/acorn
