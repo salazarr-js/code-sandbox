@@ -88,6 +88,7 @@ Simple Vanilla/TypeScript sandbox playground
 ### Bundlers
 - https://esbuild.github.io/getting-started/#wasm
 - https://swc.rs/docs/usage/wasm
+- https://rspack.rs/api/javascript-api/browser#browser-api
 - https://rollupjs.org/browser/
 - https://github.com/rolldown/rolldown/tree/main/packages/browser
   > - https://github.com/rolldown/rolldown/discussions/3391
