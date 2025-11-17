@@ -51,6 +51,7 @@ Simple Vanilla/TypeScript sandbox playground
 
 ### Tutorials
 - [Create a JavaScript Code Sandbox](https://joyofcode.xyz/create-a-coding-sandbox)
+- [Can I build a Code Sandbox using Web Components?!?](https://youtu.be/mFvC5TVZEP8)
 
 ### Examples
 - [Codi Link](https://github.com/midudev/codi.link)
@@ -60,6 +61,9 @@ Simple Vanilla/TypeScript sandbox playground
 ### Tools
 - https://sandpack.codesandbox.io/docs
 - https://github.com/streamich/memfs
+- https://github.com/asvd/jailed
+- https://github.com/justjake/quickjs-emscripten
+- https://github.com/nyariv/SandboxJS
 
 ### Services
 - https://gojs.app/
@@ -101,7 +105,8 @@ Simple Vanilla/TypeScript sandbox playground
 - https://github.com/sveltejs/esrap
 - https://oxc.rs/docs/guide/usage/parser.html
 
-### Component
+### Web Components
 - https://lit.dev/docs/
 - https://vuejs.org/guide/extras/web-components.html#building-custom-elements-with-vue
 - https://web.dev/articles/custom-elements-best-practices
+
