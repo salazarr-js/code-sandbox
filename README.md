@@ -95,9 +95,9 @@ Simple Vanilla/TypeScript sandbox playground
 - https://rspack.rs/api/javascript-api/browser#browser-api
 - https://rollupjs.org/browser/
 - https://github.com/rolldown/rolldown/tree/main/packages/browser
-  > - https://github.com/rolldown/rolldown/discussions/3391
-  > - https://github.com/rolldown/rolldown/pull/4112
-  > - https://github.com/Brooooooklyn/playground/blob/main/src/main.ts
+  - https://github.com/rolldown/rolldown/discussions/3391
+  - https://github.com/rolldown/rolldown/pull/4112
+  - https://github.com/Brooooooklyn/playground/blob/main/src/main.ts
 - https://babeljs.io/docs/babel-standalone
 
 ### Parsers
@@ -109,4 +109,3 @@ Simple Vanilla/TypeScript sandbox playground
 - https://lit.dev/docs/
 - https://vuejs.org/guide/extras/web-components.html#building-custom-elements-with-vue
 - https://web.dev/articles/custom-elements-best-practices
-
